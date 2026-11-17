@@ -7,7 +7,9 @@ TaskManager
   - Program.cs
   
 - TaskManager.Core
-  - Models
+  - Models 
+    - UserTask (a single task)
+    - TaskContext (a collection of tasks)
   - Views
   - Controllers
 
