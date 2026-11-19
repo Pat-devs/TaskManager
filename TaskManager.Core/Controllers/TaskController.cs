@@ -22,7 +22,7 @@ public class TaskController
         {
             _view.DisplayMainMenu();
 
-            var choice = _view.GetInput("Velg et alternativ");
+            var choice = _view.GetInput("Velg et alternativ: ");
 
             switch (choice)
             {
